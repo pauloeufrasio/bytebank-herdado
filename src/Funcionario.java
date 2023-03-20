@@ -21,7 +21,7 @@ public class Funcionario {
     }
 
     public double getSalario() {
-        return salario;
+        return  salario;
     }
 
     public void setSalario(double salario) {
